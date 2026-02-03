@@ -2,7 +2,8 @@
 
 A premium, interactive web application built with React and Vite that allows users to discover and collect their favorite Pokémon using the PokeAPI.
 
-![App Preview](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png) <!-- Note: Replace with actual screenshot if available -->
+## 🔗 Live Demo
+[View Live Project](https://pokemon-seven-henna.vercel.app/)
 
 ## ✨ Features
 
